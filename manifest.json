@@ -1,0 +1,7 @@
+{
+    "name": "I18NFont4UnityGame",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/xiaoye97/I18NFont4UnityGame",
+    "description": "Support several languages in chatbox with unifont. Cant do with chat bubbles.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
