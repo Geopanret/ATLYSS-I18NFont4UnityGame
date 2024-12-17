@@ -1,6 +1,13 @@
-Redirecting font used by chatbox, but not the chat bubble.
-You can put your font files with the .dll together and edit the .cfg in BepInEx/config to test new font after you run the game.
-Test version to use in-game before improvement! Welcome for your contrubution!
+
+![preview](https://github.com/user-attachments/assets/34484776-bef0-474f-b22d-c07399fd9246)
+
+Redirecting font used by chatbox, but **NOT** the chat bubble.
+
+You can put your font files with the ```.dll``` together and edit the ```.cfg``` in **BepInEx/config** to test new font after you run the mod for once.
+
+For more infomation, check [xiaoye97/I18NFont4UnityGame](https://github.com/xiaoye97/I18NFont4UnityGame/)
+
+Test version before improvement! Welcome for your contrubution!
 
 Setup
 --
@@ -17,7 +24,9 @@ Source
 
 Credits
 --
+I18NFont4UnityGame creator
+- **xiaoye97** who made it open source.
 
 Team: **莎莉小店 (Sally's workshop)**
 - **Nodska** who compiled the .dll.
-- **Lasea** who compiled the .dll to avoid protential bugs and tested several fonts. (_assumes that Kiseff used different version of TMP_)
+- **Lasea** who fixed protential bugs and tested several fonts. (_assumes that Kiseff used different version of TMP_)
